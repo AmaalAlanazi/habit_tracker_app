@@ -1,0 +1,3 @@
+[36m🚀 Starting to create 'bottom_bar' widget feature...[0m
+[31m✖ ❌ The parent feature '=' does not exist.
+When using '-f' for a custom parent feature, please ensure it exists in 'lib/features/' before adding a sub-feature.[0m
